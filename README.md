@@ -115,23 +115,6 @@ Crop Growth Progress
 Healthy Sugarcane Harvest
 ```
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/Sugarcane-Farming-Game.git
-```
-
-2. Open the project using Unity Hub.
-3. Load the project in a compatible Unity version.
-4. Open the main scene (`GameScene.unity`).
-5. Click **Play** to run the game.
-
----
-
 ## 🎯 Objective
 
 The objective of this project is to create an educational farming simulation that introduces users to the basic concepts of sugarcane cultivation, irrigation, crop care, and pest management through an interactive gaming environment.
@@ -160,5 +143,3 @@ The objective of this project is to create an educational farming simulation tha
 * Mobile Touch Controls
 
 ---
-
-### ⭐ Star this repository if you found it useful!
